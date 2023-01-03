@@ -8,7 +8,7 @@ st.markdown('''
     style='background-color:#DCDCDC;
     text-align:center;
     color:#1A5276;'>
-    GEOMETRICAL AREAS
+    GEOMETRICAL CALCULATIONS
     </h1>
     ''', unsafe_allow_html=True)
 st.markdown("")
